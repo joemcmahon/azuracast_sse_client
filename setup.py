@@ -25,7 +25,7 @@ setup(
         "multidict==6.1.0",
         "pip==26.2",
         "propcache==0.2.1",
-        "python-dotenv==1.0.1",
+        "python-dotenv==1.2.2",
         "requests==2.32.3",
         "setuptools==84.1.0",
         "six==1.17.0",
