@@ -32,7 +32,7 @@ setup(
         "sseclient-py==1.8.0",
         "typing_extensions==4.12.2",
         "tzlocal==5.2",
-        "urllib3==2.3.0",
+        "urllib3==2.8.0",
         "yarl==1.18.3",
         ],
     classifiers=[
