@@ -26,7 +26,7 @@ setup(
         "pip==26.2",
         "propcache==0.2.1",
         "python-dotenv==1.0.1",
-        "requests==2.32.3",
+        "requests==2.33.0",
         "setuptools==84.1.0",
         "six==1.17.0",
         "sseclient-py==1.8.0",
