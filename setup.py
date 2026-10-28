@@ -21,7 +21,7 @@ setup(
         "discord.py==2.4.0",
         "discord-webhook==1.3.1",
         "frozenlist==1.5.0",
-        "idna==3.10",
+        "idna==3.15",
         "multidict==6.1.0",
         "pip==26.2",
         "propcache==0.2.1",
